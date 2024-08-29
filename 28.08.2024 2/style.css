@@ -1,0 +1,19 @@
+body {
+    background-color: dodgerblue;
+}
+
+a{
+    display: block;
+    text-align: end;
+}
+
+main {
+    padding: 0;
+    background-color: WHITE;
+
+}
+
+div {
+    padding: 0;
+}
+
