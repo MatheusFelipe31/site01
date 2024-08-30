@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+#headerConteiner {
+    background: url('close-up-de-maos-barista-faca-latte-arte-cafe-pintura_1150-12161.jpg') no-repeat center center/cover;
+     width: 80%;
+     height: 350px;
+     margin: 0 auto;
+}
+
+header {
+display: block;
+background-color: grey;
+width: 80%;
+height: 70px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin: 0 auto;
+}
+
+#logo {
+    background-color: plum;
+    width: 100px;
+    height: 90%;
+}
+
+nav {
+    background-color: red;
+    width: 500px;
+    height: 90%;
+    display: flex;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white
+    ;
+}
+
+#pesquisa {
+    background-color: beige;
+    width: 100px;
+    height: 90%;
+}
+
+#textoimg {
+   color: white;
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+}
+#textoimg a {
+text-decoration: none;
+color: black;
+background-color: white;
+border-radius: 9999px;
+display: block;
+width: 100px;
+height: 40px;
+padding: 15px;
+justify-content: center;
+text-align: center;
+margin-top: 20px;
+
+}
